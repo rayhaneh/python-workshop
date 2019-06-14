@@ -1,0 +1,13 @@
+name: pwc2019
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pip
+  - notebook
+  - pandas
+  - jupyterlab
+  - matplotlib
+  - tesseract
+  - pip:
+    - pytesseract
