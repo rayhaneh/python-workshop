@@ -1,0 +1,301 @@
+trans_date,uploader,vendor,amount,tax_type,tax_rate
+2018-01-01,Jane Jetson,tinyhouse,112.61,HST,13
+2018-01-02,Squidward Tentacles,tinyhouse,194.61,GST,5
+2018-01-03,Olive Oyl,tinyhouse,112.92,HST,13
+2018-01-07,Squidward Tentacles,tinyhouse,150.34,GST,5
+2018-01-09,Elroy Jetson,tinyhouse,101.07,HST,13
+2018-01-10,Speedy Gonzales,tinyhouse,115.11,HST,13
+2018-01-12,Eliza Thornberry,tinyhouse,164.65,HST,13
+2018-01-13,Helga G. Pataki,ponistic,110.50,GST,5
+2018-01-14,Squidward Tentacles,ponistic,171.10,GST,5
+2018-01-20,Peter Griffin,ponistic,155.17,HST,13
+2018-01-22,Chuckie Finster,tinyhouse,104.60,HST,13
+2018-01-22,Olive Oyl,ponistic,196.40,HST,13
+2018-01-27,Shaggy Rogers,ponistic,125.29,GST,5
+2018-01-28,Foghorn Leghorn,ponistic,164.58,GST,5
+2018-01-29,Tina Belcher,ponistic,129.30,GST,5
+2018-01-31,Wendy Testaburger,tinyhouse,175.47,GST,5
+2018-02-01,Jessica Rabbit,tinyhouse,144.18,GST,5
+2018-02-03,Wendy Testaburger,tinyhouse,146.67,HST,13
+2018-02-04,Yosemite Sam,ponistic,102.24,HST,13
+2018-02-06,Homer Simpson,foodieguide,133.06,GST,5
+2018-02-07,Elroy Jetson,ponistic,168.29,HST,13
+2018-02-07,Olive Oyl,tinyhouse,170.25,HST,13
+2018-02-09,Sandy Cheeks,ponistic,160.06,HST,13
+2018-02-09,Sandy Cheeks,ponistic,160.83,HST,13
+2018-02-10,Jane Jetson,ponistic,190.67,GST,5
+2018-02-12,Helga G. Pataki,ponistic,183.94,HST,13
+2018-02-15,Speedy Gonzales,ponistic,177.11,HST,13
+2018-02-17,Helga G. Pataki,tinyhouse,181.29,HST,13
+2018-02-22,Olive Oyl,tinyhouse,108.46,HST,13
+2018-02-24,Homer Simpson,ponistic,101.61,HST,13
+2018-02-25,Chuckie Finster,ponistic,139.60,HST,13
+2018-02-25,Eliza Thornberry,tinyhouse,187.24,GST,5
+2018-02-25,Shaggy Rogers,ponistic,120.82,HST,13
+2018-02-28,Charles M. Burns,ponistic,181.30,GST,5
+2018-03-01,Chuckie Finster,ponistic,143.56,GST,5
+2018-03-03,Jane Jetson,ponistic,134.14,HST,13
+2018-03-06,Elmer Fudd,ponistic,127.46,HST,13
+2018-03-06,Foghorn Leghorn,tinyhouse,164.51,HST,13
+2018-03-07,Kenny McCormick,tinyhouse,194.24,HST,13
+2018-03-09,Wendy Testaburger,tinyhouse,168.07,HST,13
+2018-03-15,Charles M. Burns,tinyhouse,707.05,GST,5
+2018-03-17,Elroy Jetson,ponistic,134.47,GST,5
+2018-03-17,Penny Proud,ponistic,150.83,HST,13
+2018-03-19,Elroy Jetson,ponistic,146.01,GST,5
+2018-03-20,Lucy van Pelt,ponistic,186.87,GST,5
+2018-03-28,Wendy Testaburger,ponistic,128.42,HST,13
+2018-03-31,Chuckie Finster,tinyhouse,183.11,HST,13
+2018-04-02,Yosemite Sam,ponistic,100.04,HST,13
+2018-04-03,Elroy Jetson,tinyhouse,129.65,GST,5
+2018-04-03,Foghorn Leghorn,delict,150.47,HST,13
+2018-04-03,Jessica Rabbit,ponistic,189.25,HST,13
+2018-04-03,Peter Griffin,ponistic,102.71,GST,5
+2018-04-06,Yosemite Sam,tinyhouse,112.57,GST,5
+2018-04-10,Elroy Jetson,tinyhouse,195.21,HST,13
+2018-04-16,Jane Jetson,tinyhouse,174.91,GST,5
+2018-04-17,Homer Simpson,ponistic,104.19,GST,5
+2018-04-18,Eric Cartman,delict,157.37,HST,13
+2018-04-23,Wendy Testaburger,ponistic,160.74,HST,13
+2018-04-25,Olive Oyl,ponistic,148.83,GST,5
+2018-04-27,Wendy Testaburger,ponistic,160.61,HST,13
+2018-04-28,Peter Griffin,ponistic,107.86,HST,13
+2018-05-03,Patrick Star,tinyhouse,169.30,HST,13
+2018-05-03,Shaggy Rogers,ponistic,164.56,HST,13
+2018-05-05,Eliza Thornberry,tinyhouse,120.17,HST,13
+2018-05-05,Peter Griffin,tinyhouse,146.73,HST,13
+2018-05-05,Yosemite Sam,ponistic,123.81,HST,13
+2018-05-08,Charles M. Burns,tinyhouse,313.76,HST,13
+2018-05-08,Peter Griffin,ponistic,167.43,HST,13
+2018-05-08,Squidward Tentacles,ponistic,176.93,GST,5
+2018-05-10,Homer Simpson,ponistic,181.16,GST,5
+2018-05-10,Lucy van Pelt,ponistic,198.12,HST,13
+2018-05-11,Peter Griffin,ponistic,196.72,HST,13
+2018-05-12,Kenny McCormick,tinyhouse,155.13,GST,5
+2018-05-15,Eliza Thornberry,tinyhouse,139.66,GST,5
+2018-05-15,Fred Flintstone,ponistic,133.70,GST,5
+2018-05-15,Yosemite Sam,tinyhouse,134.67,HST,13
+2018-05-16,Speedy Gonzales,tinyhouse,125.20,HST,13
+2018-05-18,Speedy Gonzales,tinyhouse,123.44,GST,5
+2018-05-20,Kenny McCormick,tinyhouse,179.93,GST,5
+2018-05-20,Kenny McCormick,tinyhouse,188.40,HST,13
+2018-05-20,Squidward Tentacles,tinyhouse,188.99,HST,13
+2018-05-21,Jane Jetson,ponistic,192.64,HST,13
+2018-05-21,Sandy Cheeks,ponistic,100.05,HST,13
+2018-05-21,Tina Belcher,ponistic,108.81,HST,13
+2018-05-22,Charles M. Burns,prema,197.82,HST,13
+2018-05-23,Penny Proud,tinyhouse,140.29,GST,5
+2018-05-23,Yosemite Sam,tinyhouse,125.23,HST,13
+2018-05-24,Shaggy Rogers,tinyhouse,149.11,HST,13
+2018-05-26,Helga G. Pataki,ponistic,114.04,HST,13
+2018-05-26,Olive Oyl,tinyhouse,115.09,HST,13
+2018-05-29,Speedy Gonzales,tinyhouse,151.93,HST,13
+2018-06-01,Lucy van Pelt,ponistic,101.80,HST,13
+2018-06-02,Peter Griffin,tinyhouse,130.72,HST,13
+2018-06-05,Fred Flintstone,tinyhouse,118.76,HST,13
+2018-06-05,Peter Griffin,tinyhouse,175.74,HST,13
+2018-06-07,Yosemite Sam,tinyhouse,117.98,HST,13
+2018-06-10,Fred Flintstone,ponistic,178.81,HST,13
+2018-06-10,Shaggy Rogers,delict,193.85,GST,5
+2018-06-13,Helga G. Pataki,ponistic,117.66,HST,13
+2018-06-14,Jessica Rabbit,prema,157.58,HST,13
+2018-06-15,Chuckie Finster,tinyhouse,100.35,HST,13
+2018-06-18,Fred Flintstone,ponistic,150.53,HST,13
+2018-06-18,Patrick Star,ponistic,102.33,HST,13
+2018-06-19,Homer Simpson,tinyhouse,189.18,HST,13
+2018-06-19,Wendy Testaburger,ponistic,102.34,HST,13
+2018-06-21,Charles M. Burns,ponistic,114.62,GST,5
+2018-06-21,Tina Belcher,tinyhouse,193.18,HST,13
+2018-06-25,Elmer Fudd,ponistic,168.75,HST,13
+2018-06-25,Elroy Jetson,ponistic,105.67,HST,13
+2018-06-25,Lucy van Pelt,ponistic,124.10,GST,5
+2018-06-29,Tina Belcher,tinyhouse,118.92,GST,5
+2018-06-30,Eric Cartman,ponistic,132.26,GST,5
+2018-06-30,Patrick Star,tinyhouse,199.87,GST,5
+2018-06-30,Peter Griffin,ponistic,172.81,HST,13
+2018-07-04,Elmer Fudd,tinyhouse,159.02,HST,13
+2018-07-08,Shaggy Rogers,ponistic,172.10,HST,13
+2018-07-09,Lucy van Pelt,foodieguide,193.00,HST,13
+2018-07-09,Patrick Star,ponistic,169.37,GST,5
+2018-07-10,Tina Belcher,foodieguide,172.17,GST,5
+2018-07-14,Jessica Rabbit,tinyhouse,136.07,GST,5
+2018-07-14,Jessica Rabbit,tinyhouse,160.07,HST,13
+2018-07-15,Charles M. Burns,ponistic,130.23,GST,5
+2018-07-17,Chuckie Finster,foodieguide,132.58,HST,13
+2018-07-18,Peter Griffin,tinyhouse,125.50,HST,13
+2018-07-19,Patrick Star,ponistic,142.52,GST,5
+2018-07-20,Eliza Thornberry,ponistic,173.16,HST,13
+2018-07-21,Shaggy Rogers,tinyhouse,199.22,GST,5
+2018-07-23,Elroy Jetson,ponistic,145.74,HST,13
+2018-07-23,Eric Cartman,ponistic,199.49,HST,13
+2018-07-26,Elmer Fudd,tinyhouse,119.71,HST,13
+2018-07-30,Foghorn Leghorn,ponistic,181.51,HST,13
+2018-07-30,Peter Griffin,ponistic,122.10,HST,13
+2018-07-31,Eric Cartman,foodieguide,180.44,HST,13
+2018-08-02,Jessica Rabbit,delict,183.79,HST,13
+2018-08-09,Helga G. Pataki,tinyhouse,184.71,GST,5
+2018-08-11,Elmer Fudd,ponistic,139.55,GST,5
+2018-08-11,Sandy Cheeks,ponistic,165.95,GST,5
+2018-08-12,Yosemite Sam,ponistic,129.53,HST,13
+2018-08-13,Chuckie Finster,tinyhouse,131.83,HST,13
+2018-08-15,Penny Proud,ponistic,121.73,HST,13
+2018-08-17,Jane Jetson,tinyhouse,153.62,HST,13
+2018-08-19,Patrick Star,tinyhouse,111.09,HST,13
+2018-08-20,Patrick Star,delict,150.05,HST,13
+2018-08-23,Elmer Fudd,ponistic,139.63,HST,13
+2018-08-24,Fred Flintstone,delict,165.14,HST,13
+2018-08-26,Jane Jetson,tinyhouse,129.15,HST,13
+2018-08-26,Lucy van Pelt,ponistic,102.56,HST,13
+2018-08-26,Yosemite Sam,ponistic,119.06,HST,13
+2018-08-28,Wendy Testaburger,tinyhouse,165.82,GST,5
+2018-09-02,Kenny McCormick,ponistic,128.74,HST,13
+2018-09-02,Squidward Tentacles,ponistic,116.16,HST,13
+2018-09-03,Squidward Tentacles,tinyhouse,149.38,HST,13
+2018-09-05,Olive Oyl,tinyhouse,105.70,HST,13
+2018-09-06,Fred Flintstone,ponistic,178.02,HST,13
+2018-09-08,Homer Simpson,ponistic,154.98,HST,13
+2018-09-08,Speedy Gonzales,tinyhouse,172.52,GST,5
+2018-09-09,Shaggy Rogers,tinyhouse,147.44,HST,13
+2018-09-12,Fred Flintstone,ponistic,101.71,HST,13
+2018-09-14,Lucy van Pelt,ponistic,172.89,HST,13
+2018-09-14,Penny Proud,tinyhouse,108.98,GST,5
+2018-09-15,Eric Cartman,tinyhouse,138.04,GST,5
+2018-09-16,Eliza Thornberry,tinyhouse,158.64,HST,13
+2018-09-16,Helga G. Pataki,ponistic,150.64,GST,5
+2018-09-16,Helga G. Pataki,ponistic,156.70,HST,13
+2018-09-19,Eric Cartman,ponistic,105.43,HST,13
+2018-09-21,Sandy Cheeks,tinyhouse,125.08,HST,13
+2018-09-22,Speedy Gonzales,ponistic,138.05,HST,13
+2018-09-27,Jessica Rabbit,tinyhouse,124.39,GST,5
+2018-09-28,Sandy Cheeks,prema,142.00,HST,13
+2018-10-01,Elroy Jetson,tinyhouse,184.09,HST,13
+2018-10-04,Jessica Rabbit,ponistic,190.54,HST,13
+2018-10-05,Squidward Tentacles,ponistic,152.30,HST,13
+2018-10-07,Penny Proud,ponistic,155.31,HST,13
+2018-10-09,Eric Cartman,ponistic,109.05,HST,13
+2018-10-10,Charles M. Burns,ponistic,182.96,HST,13
+2018-10-13,Lucy van Pelt,ponistic,197.79,GST,5
+2018-10-17,Speedy Gonzales,tinyhouse,169.61,HST,13
+2018-10-18,Helga G. Pataki,ponistic,195.32,HST,13
+2018-10-18,Tina Belcher,tinyhouse,184.07,HST,13
+2018-10-19,Elroy Jetson,ponistic,128.47,HST,13
+2018-10-22,Foghorn Leghorn,tinyhouse,124.40,HST,13
+2018-10-22,Fred Flintstone,ponistic,118.65,GST,5
+2018-10-23,Elroy Jetson,tinyhouse,174.72,HST,13
+2018-10-27,Helga G. Pataki,tinyhouse,138.61,HST,13
+2018-10-30,Shaggy Rogers,ponistic,138.62,HST,13
+2018-11-01,Shaggy Rogers,tinyhouse,131.95,HST,13
+2018-11-02,Chuckie Finster,tinyhouse,183.05,HST,13
+2018-11-02,Tina Belcher,tinyhouse,126.54,GST,5
+2018-11-08,Chuckie Finster,ponistic,166.72,HST,13
+2018-11-10,Lucy van Pelt,tinyhouse,174.74,HST,13
+2018-11-12,Helga G. Pataki,tinyhouse,184.45,HST,13
+2018-11-13,Patrick Star,tinyhouse,172.78,HST,13
+2018-11-16,Jane Jetson,ponistic,177.06,HST,13
+2018-11-17,Chuckie Finster,tinyhouse,168.61,HST,13
+2018-11-17,Speedy Gonzales,tinyhouse,132.58,HST,13
+2018-11-19,Olive Oyl,prema,187.64,HST,13
+2018-11-20,Speedy Gonzales,ponistic,129.66,HST,13
+2018-11-20,Wendy Testaburger,tinyhouse,188.75,HST,13
+2018-11-23,Helga G. Pataki,ponistic,154.06,HST,13
+2018-11-23,Penny Proud,ponistic,155.85,HST,13
+2018-11-28,Fred Flintstone,ponistic,142.02,GST,5
+2018-11-29,Elmer Fudd,tinyhouse,167.12,GST,5
+2018-11-29,Peter Griffin,delict,139.91,HST,13
+2018-11-30,Sandy Cheeks,tinyhouse,195.81,GST,5
+2018-12-02,Fred Flintstone,ponistic,108.40,HST,13
+2018-12-02,Sandy Cheeks,ponistic,136.31,GST,5
+2018-12-03,Jessica Rabbit,ponistic,125.74,HST,13
+2018-12-04,Jane Jetson,ponistic,167.18,HST,13
+2018-12-05,Peter Griffin,tinyhouse,144.07,HST,13
+2018-12-09,Tina Belcher,tinyhouse,129.95,HST,13
+2018-12-11,Foghorn Leghorn,ponistic,143.53,HST,13
+2018-12-16,Elroy Jetson,tinyhouse,154.89,GST,5
+2018-12-18,Speedy Gonzales,tinyhouse,139.69,HST,13
+2018-12-19,Eliza Thornberry,tinyhouse,150.80,HST,13
+2018-12-19,Shaggy Rogers,delict,104.69,HST,13
+2018-12-20,Chuckie Finster,tinyhouse,140.54,HST,13
+2018-12-20,Peter Griffin,tinyhouse,176.79,HST,13
+2018-12-21,Eliza Thornberry,ponistic,115.80,HST,13
+2018-12-21,Penny Proud,ponistic,123.55,HST,13
+2018-12-23,Helga G. Pataki,ponistic,139.97,HST,13
+2018-12-24,Eliza Thornberry,tinyhouse,186.80,HST,13
+2018-12-24,Yosemite Sam,ponistic,134.35,HST,13
+2018-12-25,Shaggy Rogers,foodieguide,189.37,HST,13
+2018-12-25,Wendy Testaburger,ponistic,193.08,GST,5
+2018-12-28,Jessica Rabbit,prema,193.63,GST,5
+2018-12-31,Lucy van Pelt,ponistic,167.20,GST,5
+2019-01-01,Charles M. Burns,tinyhouse,212.53,GST,5
+2019-01-01,Patrick Star,prema,122.98,HST,13
+2019-01-03,Fred Flintstone,tinyhouse,135.91,GST,5
+2019-01-05,Fred Flintstone,ponistic,157.40,HST,13
+2019-01-09,Patrick Star,tinyhouse,166.53,HST,13
+2019-01-10,Kenny McCormick,ponistic,118.23,GST,5
+2019-01-11,Charles M. Burns,tinyhouse,448.23,HST,13
+2019-01-11,Squidward Tentacles,tinyhouse,134.07,GST,5
+2019-01-12,Jane Jetson,tinyhouse,135.66,GST,5
+2019-01-13,Lucy van Pelt,ponistic,160.92,HST,13
+2019-01-13,Olive Oyl,tinyhouse,144.86,HST,13
+2019-01-15,Shaggy Rogers,tinyhouse,129.63,GST,5
+2019-01-15,Yosemite Sam,ponistic,105.77,HST,13
+2019-01-17,Charles M. Burns,tinyhouse,535.89,GST,5
+2019-01-17,Eliza Thornberry,foodieguide,105.07,HST,13
+2019-01-17,Olive Oyl,ponistic,168.23,GST,5
+2019-01-19,Elroy Jetson,tinyhouse,187.93,HST,13
+2019-01-23,Tina Belcher,ponistic,167.46,HST,13
+2019-01-24,Foghorn Leghorn,tinyhouse,182.06,HST,13
+2019-01-25,Fred Flintstone,tinyhouse,158.89,HST,13
+2019-01-25,Kenny McCormick,tinyhouse,159.57,HST,13
+2019-01-26,Jessica Rabbit,prema,154.39,GST,5
+2019-01-26,Patrick Star,ponistic,195.74,GST,5
+2019-02-03,Tina Belcher,tinyhouse,199.96,HST,13
+2019-02-05,Homer Simpson,ponistic,124.96,HST,13
+2019-02-08,Sandy Cheeks,prema,156.84,HST,13
+2019-02-10,Yosemite Sam,tinyhouse,163.22,GST,5
+2019-02-11,Foghorn Leghorn,ponistic,165.31,HST,13
+2019-02-12,Sandy Cheeks,tinyhouse,184.54,GST,5
+2019-02-13,Chuckie Finster,delict,117.25,HST,13
+2019-02-13,Chuckie Finster,ponistic,112.64,GST,5
+2019-02-14,Tina Belcher,ponistic,142.63,HST,13
+2019-02-14,Wendy Testaburger,tinyhouse,172.39,HST,13
+2019-02-19,Fred Flintstone,tinyhouse,150.61,HST,13
+2019-02-23,Eliza Thornberry,ponistic,131.67,GST,5
+2019-03-06,Eric Cartman,tinyhouse,118.30,HST,13
+2019-03-09,Eliza Thornberry,tinyhouse,114.80,HST,13
+2019-03-10,Olive Oyl,tinyhouse,180.56,GST,5
+2019-03-12,Jane Jetson,tinyhouse,101.32,HST,13
+2019-03-13,Shaggy Rogers,tinyhouse,193.71,HST,13
+2019-03-18,Eric Cartman,ponistic,142.34,GST,5
+2019-03-18,Yosemite Sam,tinyhouse,199.34,HST,13
+2019-03-19,Lucy van Pelt,tinyhouse,136.57,HST,13
+2019-03-23,Foghorn Leghorn,foodieguide,105.58,HST,13
+2019-03-24,Penny Proud,tinyhouse,183.46,GST,5
+2019-03-26,Elroy Jetson,ponistic,178.38,GST,5
+2019-03-29,Helga G. Pataki,tinyhouse,173.98,HST,13
+2019-03-30,Elroy Jetson,tinyhouse,184.40,GST,5
+2019-04-05,Tina Belcher,ponistic,113.34,HST,13
+2019-04-07,Shaggy Rogers,ponistic,115.59,GST,5
+2019-04-08,Squidward Tentacles,tinyhouse,149.34,HST,13
+2019-04-09,Charles M. Burns,tinyhouse,858.36,HST,13
+2019-04-09,Squidward Tentacles,ponistic,149.65,HST,13
+2019-04-12,Elmer Fudd,tinyhouse,104.69,GST,5
+2019-04-13,Kenny McCormick,ponistic,113.85,GST,5
+2019-04-14,Peter Griffin,ponistic,132.60,GST,5
+2019-04-17,Speedy Gonzales,ponistic,180.34,HST,13
+2019-04-18,Patrick Star,tinyhouse,167.53,GST,5
+2019-04-19,Eric Cartman,tinyhouse,168.98,HST,13
+2019-04-19,Penny Proud,ponistic,128.14,HST,13
+2019-04-20,Eric Cartman,ponistic,197.92,GST,5
+2019-04-21,Squidward Tentacles,tinyhouse,109.01,HST,13
+2019-04-26,Kenny McCormick,foodieguide,163.89,GST,5
+2019-04-26,Sandy Cheeks,ponistic,119.68,HST,13
+2019-04-27,Peter Griffin,tinyhouse,188.05,HST,13
+2019-04-27,Speedy Gonzales,tinyhouse,143.04,HST,13
+2019-04-30,Helga G. Pataki,ponistic,133.87,HST,13
+2019-05-02,Foghorn Leghorn,tinyhouse,187.24,HST,13
+2019-05-03,Olive Oyl,ponistic,105.78,GST,5
+2019-05-07,Elmer Fudd,ponistic,154.17,HST,13
+2019-05-07,Eric Cartman,tinyhouse,135.79,GST,5
+2019-05-12,Elroy Jetson,ponistic,183.37,HST,13
+2019-05-14,Wendy Testaburger,tinyhouse,131.30,HST,13
+2019-05-15,Peter Griffin,tinyhouse,193.40,HST,13
