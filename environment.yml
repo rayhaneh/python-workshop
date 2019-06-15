@@ -11,3 +11,4 @@ dependencies:
   - tesseract
   - pip:
     - pytesseract
+    - ipynb
